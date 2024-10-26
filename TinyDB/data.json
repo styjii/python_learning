@@ -1,0 +1,36 @@
+{
+    "_default": {
+        "1": {
+            "name": "Pierre",
+            "score": 10,
+            "roles": [
+                "Senior"
+            ]
+        }
+    },
+    "Users": {
+        "1": {
+            "name": "Patrick",
+            "salaire": 25000
+        },
+        "2": {
+            "name": "Paul",
+            "salaire": 35000
+        },
+        "3": {
+            "name": "Julie",
+            "salaire": 45000
+        }
+    },
+    "Roles": {
+        "1": {
+            "name": "Pythonista"
+        },
+        "2": {
+            "name": "Javaista1"
+        },
+        "3": {
+            "name": "JavaScripta"
+        }
+    }
+}
